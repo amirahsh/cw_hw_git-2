@@ -48,11 +48,7 @@ int main(){
         newnum=newnum*10;
         i2=i2+1;
     }
-    int x=pow(10,i2/2);
-    int y=pow(10,i2);
-    
-   // int final= begintoend(10,end,final1+final2);
-  //  printf("%d",final);
+   
    // printf("%d\t%d\t%d\t%d\t%d\t%d\t%d",final,final1,final2,firstpart,secondpart,newnum,i2);
 
 
