@@ -50,7 +50,7 @@ int main(){
     }
     int x=pow(10,i2/2);
     int y=pow(10,i2);
-    int firstpart=(newnum%x);
+   // int firstpart=(newnum%x);
    // int secondpart=((newnum%y)-firstpart)/x;
  //   int final1= numbertobase10(end,firstpart);
   //  int final2= numbertobase10(end,secondpart);
