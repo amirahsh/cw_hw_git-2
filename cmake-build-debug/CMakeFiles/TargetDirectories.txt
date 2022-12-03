@@ -1,0 +1,3 @@
+C:/Users/Amirhosein/CLionProjects/cw-hw git/cmake-build-debug/CMakeFiles/cw_hw_git.dir
+C:/Users/Amirhosein/CLionProjects/cw-hw git/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Amirhosein/CLionProjects/cw-hw git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
